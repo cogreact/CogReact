@@ -1,3 +1,8 @@
 ## CogReact: A Reinforced Framework to Model Human Cognitive Reaction Modulated by Dynamic Intervention
 
 ![Table 5](./image/Table5.png)
+![Table 6](./image/Table6.png)
+![Table 7](./image/Table7.png)
+![Table 8](./image/Table8.png)
+![Table 9](./image/Table9.png)
+![Figure 11](./image/Figure11.png)
