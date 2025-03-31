@@ -18,3 +18,9 @@ You can also check each figure and table in the 'image' folder.
 
 
 ![Figure 11](./image/Figure11.png)
+
+
+![Figure 1 Improved](./image/Figure1_improved.png)
+
+
+![Table 1 Improved](./image/Table1_improved.png)
