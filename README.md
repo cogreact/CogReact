@@ -23,6 +23,7 @@ You can also check each figure and table in the 'image' folder.
 ![Figure 1 Improved](./image/Figure1_improved.png)
 
 
-![Table 1 Improved](./image/Table1_improved.png)
 
-<img src="./image/Table1_improved.png" alt="Table 1 Improved" width="300" height="460">
+<p align="center">
+<img src="./image/Table1_improved.png" alt="Table 1 Improved" width="600" height="920">
+</p>
