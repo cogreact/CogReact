@@ -24,3 +24,5 @@ You can also check each figure and table in the 'image' folder.
 
 
 ![Table 1 Improved](./image/Table1_improved.png)
+
+<img src="./image/Table1_improved.png" alt="Table 1 Improved" width="300" height="460">
