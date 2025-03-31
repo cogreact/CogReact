@@ -1,6 +1,6 @@
-## CogReact: A Reinforced Framework to Model Human Cognitive Reaction Modulated by Dynamic Intervention
+### You can also check each figure and table in the 'image' folder.
 
-You can also check each figure and table in the 'image' folder.
+
 
 ![Table 5](./image/Table5.png)
 
