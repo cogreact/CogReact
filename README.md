@@ -9,7 +9,8 @@ This repo is composed of three parts:
 - Part B. Replicate drawing figures in the manuscript (paper_plot folder)
 - Part C. Train models 
 
-## Video dataset
+## Video dataset (optional)
+This video dataset is not necessary to run our framework. But you can use it to build deep learning baselines which use video stimuli as input.
 
 Download from google drive:
 - Training video set: https://drive.google.com/file/d/14bCqTIiH-yDyJd31bW8DUwevaQmJATh9/view?usp=sharing
