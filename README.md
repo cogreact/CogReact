@@ -1,4 +1,6 @@
-# ReactiveAgent
+# CogReact: A Reinforced Framework to Model Human Cognitive Reaction Modulated by Dynamic Intervention
+
+![framework](fig.png)
 
 ## Overview
 
@@ -93,4 +95,24 @@ For our simulation framework, there are three components: LSTM-based math logica
     - However, for full DRL training, such as 50000 steps, it may take several hours in MacOS. So we strongly recommend you to use CUDA and GPU in Linux if you want to fully train DRL models from beginning.
     - To train individual-level hybrid DRL agents, run `python env_run.py -t eu`. Other model configurations can be found from line 1121 to line 1164 in `env_run.py` and hyperparameter config with training/testing steps can be set from line 271 to line 296. Similarly, configurations for pure DRL agents can be found from line 709 to line 728 in `env_run_whole.py` and hyperparameter config with training/testing steps can be set from line 268 to line 294.
     - The trained and tested results will be stored into a new subfolder in "rl_model" folder.
+  
+## Related paper
 
+https://arxiv.org/abs/2301.06216
+
+## Cite us
+```bibtex
+@article{xu2023modeling,
+  title={Modeling Human Cognition with a Hybrid Deep Reinforcement Learning Agent},
+  author={Xu, Songlin and Zhang, Xinyu},
+  journal={arXiv preprint arXiv:2301.06216},
+  year={2023}
+}
+```
+## License
+
+This project is covered under the Apache 2.0 License.
+
+## Contact
+
+For any issues, feel free to contact: soxu@ucsd.edu
