@@ -99,15 +99,18 @@ For our simulation framework, there are three components: LSTM-based math logica
   
 ## Related paper
 
-https://arxiv.org/abs/2301.06216
+https://arxiv.org/abs/2301.06216v4
 
-## Cite us
+## Cite
 ```bibtex
-@article{xu2023modeling,
-  title={Modeling Human Cognition with a Hybrid Deep Reinforcement Learning Agent},
-  author={Xu, Songlin and Zhang, Xinyu},
-  journal={arXiv preprint arXiv:2301.06216},
-  year={2023}
+@misc{xu2025cogreactreinforcedframeworkmodel,
+      title={CogReact: A Reinforced Framework to Model Human Cognitive Reaction Modulated by Dynamic Intervention}, 
+      author={Songlin Xu and Xinyu Zhang},
+      year={2025},
+      eprint={2301.06216},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2301.06216}, 
 }
 ```
 ## License
